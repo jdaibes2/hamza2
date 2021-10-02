@@ -1,0 +1,485 @@
+[
+  {
+    "_component": "text",
+    "_classes": "grand",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p dir=\"RTL\"><span style=\"color:#FFFFFF\"><strong><span style=\"background-color:#FF8C00\">همزة الوصل وهمزة القطع</span></strong></span></p><p dir=\"RTL\"><strong><span style=\"color:#FF8C00\">الأهداف</span></strong></p><p dir=\"RTL\"><strong>في نهاية هذا الدرس سوف أصبح قادراً على:</strong></p><p dir=\"RTL\">-تعريف همزة الوصل</p><p dir=\"RTL\">-تعريف همزة القطع</p><p dir=\"RTL\">-كتابة الهمزة في كلتي الحالتين</p>",
+    "_id": "6156d01488cf1941fc91784b",
+    "_parentId": "6156d01488cf1941fc91784a",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "media",
+    "_classes": "grand",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6156d23e88cf1941fc917851",
+    "_parentId": "6156d01488cf1941fc91784a",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "نشاهد الفيديو",
+    "_media": {
+      "mp4": "course/en/assets/bd446f85b7bc8d957bd5ece9f8412025c6a93dd3.mp4",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "",
+      "type": "",
+      "poster": "course/en/assets/3fc67205bb0dabf3267512705ac975ac0a4536cd.png",
+      "cc": []
+    },
+    "_setCompletionOn": "play",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": false,
+    "_startVolume": "80%",
+    "_allowFullScreen": true,
+    "_aspectRatio": "landscape",
+    "_pauseWhenOffScreen": true,
+    "_playsinline": true,
+    "_preventForwardScrubbing": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": true,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "فتح النص المقروء",
+      "inlineTranscriptCloseButton": "إغلاق",
+      "inlineTranscriptBody": "<p dir=\"RTL\">ليلى: مرحباً أعزائي وأهلاً وسهلاً بكم</p><p dir=\"RTL\">مرحباً سيد سامي كيف حالك؟</p><p dir=\"RTL\">أخبرنا لو سمحت ما هو درسنا اليوم وما هي أهدافه؟</p><p dir=\"RTL\">سامي:</p><p dir=\"RTL\">مرحباً سيدة ليلى، شكراً لك</p><p dir=\"RTL\">أهلاً وسهلاً أعزائي في درس اليوم : همزة الوصل وهمزة القطع</p><p dir=\"RTL\">ما يزال موضوع الهمزة من أكثر الموضوعات المطروحة في الإملاء والخاضعة للدراسة من حيث كتابتها ولفظها، وأنواعها.</p><p dir=\"RTL\">سوف نتعرف في هذا الدرس على الامور الآتية:</p><p dir=\"RTL\">...</p>",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_component": "text",
+    "_classes": " grand",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p dir=\"rtl\"><strong><span style=\"color:#FFF0F5\"><span style=\"background-color:#FF8C00\">مقدمة</span></span></strong></p><p dir=\"rtl\"><strong>الهمزة تأتي في ثلاثة مواضع من الكلمة: في أول الكلمة، أو في وسطها، أو في آخرها، والهمزة التي تأتي في أول الكلمة إما أن تكون همزة وصل وإما همزة قطع، ولكلٍّ منهما قواعدها المحددة لكتابتها وتمييزها</strong></p>",
+    "_id": "6156d36188cf1941fc917855",
+    "_parentId": "6156d35c88cf1941fc917854",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "media",
+    "_classes": "grand",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6156d43888cf1941fc917857",
+    "_parentId": "6156d43188cf1941fc917856",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "نشاهد الفيديو",
+    "_media": {
+      "mp4": "course/en/assets/68c46005cda766a105d4b8e003f53eb17afb20fd.mp4",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "",
+      "type": "",
+      "poster": "course/en/assets/0320338a7385621331a9b492f70bf35f86b933d9.png",
+      "cc": []
+    },
+    "_setCompletionOn": "play",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": false,
+    "_startVolume": "80%",
+    "_allowFullScreen": true,
+    "_aspectRatio": "landscape",
+    "_pauseWhenOffScreen": true,
+    "_playsinline": true,
+    "_preventForwardScrubbing": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_component": "media",
+    "_classes": "grand",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6156dd2288cf1941fc91785d",
+    "_parentId": "6156dd2288cf1941fc91785c",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "نشاهد الفيديو",
+    "_media": {
+      "mp4": "course/en/assets/f211899e119a5fd91fe18834311014880aeba332.mp4",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "",
+      "type": "",
+      "poster": "course/en/assets/3fc67205bb0dabf3267512705ac975ac0a4536cd.png",
+      "cc": []
+    },
+    "_setCompletionOn": "play",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": false,
+    "_startVolume": "80%",
+    "_allowFullScreen": true,
+    "_aspectRatio": "landscape",
+    "_pauseWhenOffScreen": true,
+    "_playsinline": true,
+    "_preventForwardScrubbing": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": true,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "فتح النص المقروء",
+      "inlineTranscriptCloseButton": "إغلاق",
+      "inlineTranscriptBody": "<p dir=\"rtl\">دعونا بدايةً أن ننفذ هذا النشاط<br />سوف نأخذ بعض الكلمات ونضيف لها احد الحرفين (و، أو فـ) في بدايتها<br />ثم نقرأها ونستنتج اذا نطقت الهمزة أم لا<br />مثلاً:<br />استعمال<br />شراء واستعمال... : لا تنطق الهمزة<br />استعارة<br />طلب واستعارة... لا تنطق الهمزة<br />&nbsp;</p>",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_component": "mcq",
+    "_classes": "grand",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "سؤال - 1 ",
+    "displayTitle": "",
+    "body": "<p dir=\"RTL\"><strong>حدّد الكلمات التي لا تنطق فيها الهمزة عند إضافة حرف الواو أو حرف الفاء قبلها&nbsp;من الخيارات الآتية:</strong></p>",
+    "_id": "6156dd2288cf1941fc917860",
+    "_parentId": "6156dd2288cf1941fc91785c",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "ابي",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "ايمان",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "استخدام",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "اقتراب",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "اعراب",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 3,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": true,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 5,
+    "_feedback": {
+      "title": "النتيجة",
+      "correct": "<p dir=\"rtl\">صحيحة !</p>",
+      "_incorrect": {
+        "final": "<p dir=\"rtl\">خاطئة&nbsp;!</p>",
+        "notFinal": "<p dir=\"rtl\">خاطئة&nbsp;!</p><p dir=\"rtl\">حاول مرة جديدة</p>"
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "textinput",
+    "_classes": "grand",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p dir=\"RTL\"><strong>أدخل الإجابة مع الإنتباه الى كتابة فراغ واحد بين الكلمات وعدم كتابة الحركات والفواصل<span>!</span></strong></p>",
+    "_id": "6156dd3288cf1941fc917861",
+    "_parentId": "6156d43188cf1941fc917856",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "_answers": [
+          "استقبل أبي صديقه القادم من إمارة أبو ظبي"
+        ],
+        "prefix": "",
+        "suffix": "",
+        "placeholder": ""
+      }
+    ],
+    "_attempts": 3,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": true,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_allowsAnyCase": true,
+    "_allowsPunctuation": true,
+    "_feedback": {
+      "title": "النتيجة",
+      "correct": "<p dir=\"rtl\">صحيحة !</p><p dir=\"rtl\">&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p dir=\"rtl\">خاطئة&nbsp;!</p><p dir=\"rtl\">&nbsp;</p>",
+        "notFinal": "<p dir=\"rtl\">خاطئة&nbsp;!</p><p dir=\"rtl\">حاول مرة جديدة</p>"
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "blank",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "New Component Title",
+    "body": "",
+    "_id": "6156dfdb88cf1941fc917868",
+    "_parentId": "6156df8f88cf1941fc917864",
+    "_type": "component",
+    "_layout": "full",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_component": "iframe",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "61575a94c7d8cb2e50098a11",
+    "_parentId": "61575a0cc7d8cb2e50098a0f",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_setCompletionOn": "inview",
+    "instruction": "",
+    "_src": "assets/index.html",
+    "_initialWidth": 1280,
+    "_initialHeight": 720,
+    "_dimensionDelegateSelector": ""
+  }
+]

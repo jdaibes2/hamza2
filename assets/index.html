@@ -1,0 +1,167 @@
+<!DOCTYPE HTML>
+<!--
+	Story by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>الشرح</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper" class="divided">
+
+				<!-- One -->
+					<section class="banner style1 orient-left content-align-right image-position-right fullscreen onload-image-fade-in onload-content-fade-right" id="intro">
+						<div class="content">
+							<h1> تعريف همزة الوصل </h1>
+							<ul class="actions stacked">
+								<li><a href="#first" class="button big wide smooth-scroll-middle"  onclick=jouer1()><h3>ابدأ</h3></a></li>
+							</ul>
+						</div>
+						<div class="image">
+							<img src="images/intro.png" alt="" />
+						</div>
+					</section>
+
+				<!-- Two -->
+					<section class="banner style1 orient-right content-align-right image-position-center onscroll-image-fade-in" id="first">
+						<div class="content">
+							
+							<h2 class="major">تُعرّف همزة الوصل بأنها همزة تقع في أول الكلمة يثبت لفظها عند الابتداء بها، ويسقط عند وصل الكلمة بما قبلها، أي تُنطَق نطق همزة القطع في بداية الكلام، ولا يُنطق بها في حالة الوصل بينها وبين الكلمة التي قبلها</h2>
+							
+							<ul class="actions stacked">
+								<li><a href="#second" class="button big wide smooth-scroll-middle" onclick=jouer2()><h3>تابع</h3></a></li>
+							</ul>
+						</div>
+						<div class="image">
+							<img src="images/image1.png" alt="" />
+						</div>
+						
+								
+					</section>
+
+				<!-- Three -->
+					<section class="banner style1 orient-left content-align-right image-position-center onscroll-image-fade-in" id="second">
+						<div class="content">
+							<h2>تُكتب همزة الوصل بهذا الشكل 
+								( ا ) أي بلا رسم الهمزة عليها، وسُمّيت بهمزة الوصل لأنها تصل بين الكلمة وما قبلها، كما في الكلمتين: قرأت واستخرجت 
+							</h2>
+							
+							<ul class="actions stacked">
+								<li><a href="#third" class="button big wide smooth-scroll-middle" onclick=jouer3()><h3>تابع</h3></a></li>
+							</ul>
+						</div>
+						<div class="image">
+							<img src="images/image2.png" alt="" />
+						</div>
+						
+						
+						
+					</section>
+
+				<!-- Four -->
+					<section class="banner style1 orient-right content-align-right image-position-center onscroll-image-fade-in" id="third">
+						<div class="content">
+						
+							<h2> وللتمييز بين الهمزتين يوضع قبل الكلمة المُراد تمييز نوع الهمزة فيها أحد الحرفين (و، فـ) ثم تنطق، فإن أحس القارئ بخروج صوت الهمزة (أَ، أُ، إ) من حلقه أثناء النطق كانت همزة قطع</h2>
+							<ul class="actions stacked">
+								<li><a href="#fourth" class="button big wide smooth-scroll-middle" onclick=jouer4()><h3>تابع</h3></a></li>
+							</ul>
+						</div>
+						<div class="image">
+							<img src="images/image3.png" alt="" />
+						</div>
+					</section>
+
+				<!-- five -->
+					<section class="banner style1 orient-left content-align-right image-position-center onscroll-image-fade-in" id="fourth">
+						<div class="content">
+						
+							<h2>أمّا إن انتقل من حرف الواو أو الفاء فوراً إلى الحرف الذي يلي الهمزة التي بدأت بها الكلمة دون أن ينطق بصوت الهمزة كانت همزة وصل</h2>
+							<ul class="actions stacked">
+								<li><a href="#intro" class="button big wide smooth-scroll-middle"><h3>ابدأ من جديد</h3></a></li>
+							</ul>
+						</div>
+						<div class="image">
+							<img src="images/image4.png" alt="" />
+						</div>
+					</section>
+
+				
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+			
+			<audio id="page1">  
+				<source src="audio/slide1.mp3" type="audio/mpeg">  
+			</audio> 
+			
+			<audio id="page2">  
+				<source src="audio/slide2.mp3" type="audio/mpeg">  
+			</audio> 
+			
+			<audio id="page3">  
+				<source src="audio/slide3.mp3" type="audio/mpeg">  
+			</audio>  
+			
+			<audio id="page4">  
+				<source src="audio/slide4.mp3" type="audio/mpeg">  
+			</audio>  
+			
+			
+			<script>
+			
+			var jouer11 = document.getElementById("page1");
+			var jouer22 = document.getElementById("page2");
+			var jouer33 = document.getElementById("page3");
+			var jouer44 = document.getElementById("page4");
+			
+			function jouer1(){
+			jouer22.pause();
+			jouer33.pause();
+			jouer44.pause();
+			jouer11.currentTime=0;
+			jouer11.play();
+			}
+			
+			function jouer2(){
+			jouer11.pause();
+			jouer33.pause();
+			jouer44.pause();
+			jouer22.currentTime=0;
+	 		jouer22.play();
+			}
+			
+			function jouer3(){
+			jouer11.pause();
+			jouer22.pause();
+			jouer44.pause();
+			jouer33.currentTime=0;
+	 		jouer33.play();
+			}
+			function jouer4(){
+			jouer11.pause();
+			jouer22.pause();
+			jouer33.pause();
+			jouer44.currentTime=0;
+	 		jouer44.play();
+			}
+			</script>
+
+	</body>
+</html>
